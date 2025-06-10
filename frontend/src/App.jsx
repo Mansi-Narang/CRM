@@ -1,8 +1,10 @@
+import Hero from "./components/Dashboard/Hero";
+
 function App() {
 
   return (
     <>
-     <h1 className="text-3xl">Mansiiiii</h1>
+     <Hero/>
     </>
   )
 }
